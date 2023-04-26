@@ -1,0 +1,7 @@
+twenty = list(range(1, 21))
+print(twenty)
+
+million = list(range(1, 1000001))
+print(million)
+
+print(million.sum())
